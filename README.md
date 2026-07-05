@@ -1,1 +1,1 @@
-# holistic-evaluation-of-travel-insurance-value-for-solo-travelers
+# Holistic Evaluation of Travel Insurance Value for Solo Travelers 
